@@ -5,7 +5,9 @@
 
 ## 👨‍💻 About Me
 
-MCA graduate from **Acharya Institute of Technology, Bangalore**, with a strong foundation in **programming, scripting, databases, and AI applications**. Experienced in **problem-solving,containerization, and version control**. Passionate about **AI-driven projects, data analysis, IoT, and full-stack development**.
+MCA graduate with hands-on experience in **Python, SQL, Flask, and data analysis** through academic and project-based work. Strong 
+problem-solving skills with exposure to **backend development, data handling, and dashboarding.** Comfortable working in team-based 
+environments and adapting quickly to new tools and technologies. 
 
 <!-- 🌈 Divider -->
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
@@ -96,8 +98,9 @@ MCA graduate from **Acharya Institute of Technology, Bangalore**, with a strong 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjunathhgowda&custom_title=Manjunatha's%20Contribution%20Graph&bg_color=0D1117&color=dd2476&line=ff512f&point=ffffff&area_color=dd2476&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanusm-13&custom_title=Dhananjaya%20S%20M's%20Contribution%20Graph&bg_color=0D1117&color=dd2476&line=ff512f&point=ffffff&area_color=dd2476&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
+
 
 <!-- Profile Views Counter -->
 <p align="center">
