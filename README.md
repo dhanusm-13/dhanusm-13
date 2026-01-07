@@ -65,7 +65,7 @@ environments and adapting quickly to new tools and technologies.
 
 | Project | Repository Link |
 |--------|------------------|
-| **AI-Powered Rersume Analyzer** | https://github.com/dhanusm-13/Resume-Questions |
+| **AI-Powered Resume Analyzer** | https://github.com/dhanusm-13/Resume-Questions |
 | **Deforestation and Biodiversity Analysis: Data Science Approach**| https://github.com/dhanusm-13/Deforsestation-and-biodiversity-analysis|
 | **OTT Streaming Analytics Dashboard**  | https://github.com/dhanusm-13/OTT_Dashboard |
 | **Python Password Generator** | https://github.com/dhanusm-13/Password-generator |
